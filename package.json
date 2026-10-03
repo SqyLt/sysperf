@@ -1,0 +1,12 @@
+{
+  "name": "sysperf",
+  "version": "1.0.0",
+  "description": "SysPerf - 系统性能查看器 (CPU / 内存 / GPU / 磁盘 / 网络 / 进程)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^44.5.1"
+  }
+}

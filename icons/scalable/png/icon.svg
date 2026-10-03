@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="0" y="0" width="1024" height="1024" rx="226" fill="#f6f5f1"/>
+  <rect x="3" y="3" width="1018" height="1018" rx="223" fill="none" stroke="#e3e0d7" stroke-width="6"/>
+  <!-- 次线（浅灰，呼应双序列图表） -->
+  <path d="M 138 764 C 344 764 364 700 512 700 C 660 700 680 764 886 764"
+        fill="none" stroke="#b0aca0" stroke-width="30" stroke-linecap="round"/>
+  <!-- 主脉搏线（墨色） -->
+  <path d="M 138 574 L 332 574 L 450 300 L 578 748 L 670 574 L 886 574"
+        fill="none" stroke="#17181a" stroke-width="46"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=SysPerf 系统性能查看器
+Comment=CPU / 内存 / GPU / 磁盘 / 网络 / 进程 实时仪表盘
+Exec=/home/suomi/Application/SysPerf/start.sh
+Path=/home/suomi/Application/SysPerf
+Icon=/home/suomi/Application/SysPerf/icons/SysPerf.icon
+Terminal=false
+StartupWMClass=SysPerf
+Categories=System;Monitor;
